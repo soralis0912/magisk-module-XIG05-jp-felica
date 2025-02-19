@@ -3,4 +3,6 @@ Felica enable patch for XIG05 users.
 
 #### NOTICE
 
-do not add  any Felica apps into Deny List
+* Do not add  any Felica apps into Deny List
+
+* This Module is support only NqNFC based rom only
