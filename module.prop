@@ -1,7 +1,7 @@
 id=xig05-jp-felica
 name=Patch for Xiaomi Redmi Note 13 Pro 5G Japan
-version=v02
-versionCode=02
+version=v03
+versionCode=03
 author=soralis0912
 description=XiaomiRedmi Note 13 Pro 5G 日本版用パッチ
 updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-XIG05-jp-felica/master/update.json
